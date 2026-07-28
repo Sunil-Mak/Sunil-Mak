@@ -18,6 +18,20 @@ Software Developer | Python | Django | Flask | AI & Machine Learning | Web Scrap
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<hr>
+<b><h2 style="font-size:25px"> 🛠️ My favorite tools </h2><b>
+<hr>
+<p>
+    <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white">
+    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</p>
+<hr>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sunil-Mak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
