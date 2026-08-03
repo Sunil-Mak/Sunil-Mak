@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a3e,100:00fff2&height=250&section=header&text=Sunil%20Makwana&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20|%20AI%20%26%20ML%20|%20Python%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a3e,100:00fff2&height=250&section=header&text=Sunil%20Makwana&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20%7C%20Python%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+Flask;AI+%26+Machine+Learning+Enthusiast;Web+Scraping+Specialist;Open+to+Software+Engineer+Roles!" alt="Typing SVG" />
 
@@ -93,8 +93,10 @@ C/C++       █████████░░░░░░░░░░░░░�
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=Sunil-Mak&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=a259ff&text_color=ffffff&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sunil-Mak&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=ffffff&layout=compact&include_all_commits=true&count_private=true" width="49%"/>
+  
+<img src="https://github-readme-stats.shion.dev/api?username=Sunil-Mak&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=a259ff&text_color=ffffff" width="49%"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sunil-Mak&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=ffffff&layout=compact" width="49%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Sunil-Mak&theme=radical&hide_border=true&background=0d1117&ring=00fff2&fire=a259ff&currStreakLabel=00fff2" width="70%"/>
 
@@ -107,17 +109,17 @@ C/C++       █████████░░░░░░░░░░░░░�
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Sunil-Mak&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
-
+> Free Vercel instance, cold-starts slowly — if broken, open the img src URL directly in a new tab once, then refresh GitHub page.
+ 
 ### 🐍 Contribution Snake
-
+ 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sunil-Mak/Sunil-Mak/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
 > Snake auto-generates via GitHub Actions — add `.github/workflows/snake.yml` using `Platane/snk` action to enable.
-
+ 
 ### 🔝 Top Contributed Repo
-
+ 
 <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=Sunil-Mak&limit=5&theme=dark&combine_all_yearly_contributions=true" width="80%"/>
 </div>
