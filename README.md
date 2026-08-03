@@ -145,21 +145,19 @@ C/C++       █████████░░░░░░░░░░░░░�
 ## 🚀 Featured Projects
 
 <p align="center">
-<a href="https://github.com/Sunil-Mak?tab=repositories"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Sunil-Mak&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0d1117"/></a>
-<a href="https://github.com/Sunil-Mak?tab=repositories"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Sunil-Mak&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0d1117"/></a>
+<a href="https://github.com/Sunil-Mak?tab=repositories"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Sunil-Mak&repo=DigiShield&theme=radical&hide_border=true&bg_color=0d1117"/></a>
+<a href="https://github.com/Sunil-Mak?tab=repositories"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Sunil-Mak&repo=VaultX&theme=radical&hide_border=true&bg_color=0d1117"/></a>
 </p>
 
-> Replace `REPO_NAME_1` / `REPO_NAME_2` with actual repo names to activate pinned cards.
 
-## 🎧 Now Playing (optional)
+## 🎧 Now Playing.
 
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" width="60%"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31vbyemzpkw7o5iyabs5dm2vz6eu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" width="60%"/>
 </div>
 
-> Set up at spotify-github-profile.vercel.app, replace `YOUR_SPOTIFY_UID`.
 
-## 🎮 Discord Presence (optional)
+## 🎮 Discord Presence.
 
 <div align="center">
 <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID"/>
@@ -167,35 +165,28 @@ C/C++       █████████░░░░░░░░░░░░░�
 
 > Replace `YOUR_DISCORD_ID` with your Discord user ID.
 
-## 💡 LeetCode Stats (optional)
+## 💡 LeetCode Stats.
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Sunil_Mak?theme=dark&font=Fira%20Code&ext=heatmap"/>
 </div>
 
-> Replace `YOUR_LEETCODE_USERNAME`.
 
-## 🏅 Holopin Badges (optional)
+## 🏅 Holopin Badges.
 
 <div align="center">
-<img src="https://holopin.me/YOUR_HOLOPIN_USERNAME"/>
+<img src="https://holopin.io/@sunilmak"/>
 </div>
 
-> Replace `YOUR_HOLOPIN_USERNAME`.
 
 ## ⏱️ WakaTime Stats (optional)
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.shion.dev/api/wakatime?username=@e609a6ac-d98d-4d25-b649-33baf82f666a&theme=radical&hide_border=true&bg_color=0d1117"/>
 </div>
 
 > Requires WakaTime account + `wakatime.yml` GitHub Action.
 
-## ☕ Support (optional)
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</p>
 
 ## 📬 Contact
 
