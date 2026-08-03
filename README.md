@@ -109,17 +109,19 @@ C/C++       █████████░░░░░░░░░░░░░�
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Sunil-Mak&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
+
 > Free Vercel instance, cold-starts slowly — if broken, open the img src URL directly in a new tab once, then refresh GitHub page.
- 
+
 ### 🐍 Contribution Snake
- 
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sunil-Mak/Sunil-Mak/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
+
 > Snake auto-generates via GitHub Actions — add `.github/workflows/snake.yml` using `Platane/snk` action to enable.
- 
+
 ### 🔝 Top Contributed Repo
- 
+
 <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=Sunil-Mak&limit=5&theme=dark&combine_all_yearly_contributions=true" width="80%"/>
 </div>
@@ -151,44 +153,45 @@ C/C++       █████████░░░░░░░░░░░░░�
 <a href="https://github.com/Sunil-Mak?tab=repositories"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Sunil-Mak&repo=VaultX&theme=radical&hide_border=true&bg_color=0d1117"/></a>
 </p>
 
-
-## 🎧 Now Playing.
+## 🎧 Now Playing
 
 <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vbyemzpkw7o5iyabs5dm2vz6eu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" width="60%"/>
 </div>
 
+> uid correct. Card stays blank/errors until you complete one-time login at spotify-github-profile.vercel.app with this Spotify account — that step links your refresh token to this uid server-side; the public profile URL alone isn't enough.
 
-## 🎮 Discord Presence.
+## 🎮 Discord Presence (optional)
 
 <div align="center">
 <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID"/>
 </div>
 
-> Replace `YOUR_DISCORD_ID` with your Discord user ID.
+> Replace `YOUR_DISCORD_ID` with your Discord user ID (Settings → Advanced → Enable Developer Mode, then right-click your profile → Copy User ID). Also requires joining the Lanyard Discord server for the bot to track your presence.
 
-## 💡 LeetCode Stats.
+## 💡 LeetCode Stats
 
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Sunil_Mak?theme=dark&font=Fira%20Code&ext=heatmap"/>
 </div>
 
+> `Sunil_Mak` returns 0/0/0 — not a valid LeetCode handle or has zero solved. Confirm your exact LeetCode username at leetcode.com/u/<username>.
 
-## 🏅 Holopin Badges.
-
-<div align="center">
-<img src="https://holopin.io/@sunilmak"/>
-</div>
-
-
-## ⏱️ WakaTime Stats (optional)
+## 🏅 Holopin Badges
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api/wakatime?username=@e609a6ac-d98d-4d25-b649-33baf82f666a&theme=radical&hide_border=true&bg_color=0d1117"/>
+<img src="https://holopin.me/sunilmak"/>
 </div>
 
-> Requires WakaTime account + `wakatime.yml` GitHub Action.
+> Fixed: badge image domain is `holopin.me`, not `holopin.io` (that's the site, not the widget). Also dropped the `@` and trailing `#` — neither belongs in the username.
 
+## ⏱️ WakaTime Stats
+
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api/wakatime?username=e609a6ac-d98d-4d25-b649-33baf82f666a&theme=radical&hide_border=true&bg_color=0d1117"/>
+</div>
+
+> Fixed: username param can't have a leading `@` — that's just how WakaTime displays profile URLs, not part of the ID itself. Also confirm your WakaTime dashboard privacy is set to public, or the card shows "doesn't publicly share stats" instead of real data.
 
 ## 📬 Contact
 
