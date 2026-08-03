@@ -106,9 +106,11 @@ C/C++       █████████░░░░░░░░░░░░░�
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sunil-Mak&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</div>
+<hr>
+<p align="center">
+<img src="https://github-profile-repo.vercel.app/?username=Sunil-Mak&theme=matrix&row=1&column=9">
+</p>
+<hr>
 
 > Free Vercel instance, cold-starts slowly — if broken, open the img src URL directly in a new tab once, then refresh GitHub page.
 
