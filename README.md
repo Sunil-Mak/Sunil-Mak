@@ -1,19 +1,14 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a3e,100:00fff2&height=250&section=header&text=Sunil%20Makwana&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20%7C%20Python%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a3e,100:00fff2&height=250&section=header&text=Sunil%20Makwana&fontSize=60&fontColor=00fff2&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20%7C%20Python%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+Flask;AI+%26+Machine+Learning+Enthusiast;Web+Scraping+Specialist;Open+to+Software+Engineer+Roles!" alt="Typing SVG" />
-
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-
 </div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sunil-Mak&color=00fff2&style=for-the-badge&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/github/followers/Sunil-Mak?label=Followers&style=for-the-badge&color=00fff2&labelColor=0d1117"/>
   <img src="https://img.shields.io/github/stars/Sunil-Mak?label=Stars&style=for-the-badge&color=a259ff&labelColor=0d1117"/>
 </p>
-
 <h2 align="center">💫 About Me</h2>
 
 <div align="center">
@@ -155,9 +150,9 @@ C/C++       █████████░░░░░░░░░░░░░�
 
 ## 🎧 Now Playing
 
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31vbyemzpkw7o5iyabs5dm2vz6eu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" width="60%"/>
-</div>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vbyemzpkw7o5iyabs5dm2vz6eu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vbyemzpkw7o5iyabs5dm2vz6eu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
 
 ## 💡 LeetCode Stats
 
