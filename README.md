@@ -116,13 +116,6 @@ C/C++       █████████░░░░░░░░░░░░░�
 <img src="https://raw.githubusercontent.com/Sunil-Mak/Sunil-Mak/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Sunil-Mak&limit=5&theme=dark&combine_all_yearly_contributions=true" width="80%"/>
-</div>
-
 ### ✍️ Random Dev Quote
 
 <div align="center">
