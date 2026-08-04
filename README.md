@@ -29,7 +29,7 @@ Status: Open to Software Engineer & Python Developer roles
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.instagram.com/i_am_sunil_makwana/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a
   <a href="https://www.linkedin.com/in/sunil-makwana-143a01268/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/No_Manufacturer3411/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Sunil_GameR_YT_07"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
